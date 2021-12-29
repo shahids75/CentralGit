@@ -1,0 +1,2 @@
+this is test log file
+to check git status command
